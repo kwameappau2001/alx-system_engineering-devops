@@ -1,0 +1,3 @@
+chmod ugo+X ./*
+#!/bin/bash
+chmod ugo+X ./*
