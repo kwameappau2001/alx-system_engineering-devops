@@ -1,2 +1,1 @@
 Kwame
-#!/bin/bash
